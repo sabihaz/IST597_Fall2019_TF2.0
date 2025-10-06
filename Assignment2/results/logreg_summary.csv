@@ -1,0 +1,8 @@
+test_acc_tf_logistic,0.8423
+rf_acc,0.8761
+svm_acc,0.8829
+avg_epoch_time,5.02315764427185
+epochs,10
+optimizer,adam
+lr,0.001
+batch_size,128
